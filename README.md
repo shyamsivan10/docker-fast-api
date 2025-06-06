@@ -1,7 +1,5 @@
 # docker-fast-api
 
-Testing the repo
-
 This project demonstrates how to containerize a FastAPI application using Docker. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python. It is part of the [YouTube Docker Crash Course on my channel](https://youtu.be/s7fnNNV-CM4).
 
 ## Features
